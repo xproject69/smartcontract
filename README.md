@@ -12,16 +12,18 @@ Project 69 (SEX) Based on TRC20 by Tronlink Protocol. It’s the fastest and mos
 
 #TOKEN INFORMATION
 
-Project 69 (SEX)
-Based on TRC20
-Total Supply    : 69
-Decimals        : 10
-Smart Contract  : https://tronscan.org/#/contract/TDDnsWbHmRw6BNpKWnfwd8Ph92g8589L25
-Website         : https://project69.network/
-Whitepaper      : https://project69.network/Whitepaper.pdf
-Telegram        : https://t.me/project69
-Twitter         : https://twitter.com/xProject69
-Justswap        : https://justswap.io/?lang=en-US#/scan/detail/trx/TDDnsWbHmRw6BNpKWnfwd8Ph92g8589L25
+
+.Project 69 (SEX)
+.Based on TRC20
+.Total Supply    : 69
+.Decimals        : 10
+.Smart Contract  : https://tronscan.org/#/contract/TDDnsWbHmRw6BNpKWnfwd8Ph92g8589L25
+.Website         : https://project69.network/
+.Whitepaper      : https://project69.network/Whitepaper.pdf
+.Telegram        : https://t.me/project69
+.Twitter         : https://twitter.com/xProject69
+.Justswap        : https://justswap.io/?lang=en-US#/scan/detail/trx/TDDnsWbHmRw6BNpKWnfwd8Ph92g8589L25
 
 
-The  impact  of  all  this  is  a  severe  slowdown  in  decision  making and  an  inability  to  optimize  critical  processes  in  customer-facing functions, most poignantly inToken information.
+
+#The  impact  of  all  this  is  a  severe  slowdown  in  decision  making and  an  inability  to  optimize  critical  processes  in  customer-facing functions, most poignantly inToken information.
